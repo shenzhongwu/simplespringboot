@@ -1,0 +1,6 @@
+com\xw\cxmanage\CxManageApp.class
+com\xw\cxmanage\mapper\PlatUserMapper.class
+com\xw\cxmanage\domain\PlatUser.class
+com\xw\cxmanage\service\impl\PlatUserServiceImpl.class
+com\xw\cxmanage\service\PlatUserService.class
+com\xw\cxmanage\controller\DemoController.class
